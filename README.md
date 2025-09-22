@@ -1,1 +1,1 @@
-# Monocular-Depth-Estimation-Model
+This repository contains the code for a monocular depth estimation model that I recently developed. The main model is located in the training file and a visual of the features used by the model is located in the visualize features file. My paper for this project is currently under review at the International Journal of High School Research.
